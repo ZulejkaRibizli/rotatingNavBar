@@ -121,12 +121,14 @@ nav ul li + li +li {
 .content {
     max-width: 1000px;
     margin: 50px auto;
+    text-align: justify;
 
 }
 
 .content h1{
     margin: 0;
-    padding: 50px
+    padding: 50px;
+  
 }
 
 .content small{
